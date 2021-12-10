@@ -1,1 +1,2 @@
-# SignUp_form_nodejs_mongodb
+npm i
+node server.js
